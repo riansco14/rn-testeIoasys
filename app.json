@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "testeIoasys",
+    "slug": "testeIoasys",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
